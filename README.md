@@ -1,7 +1,7 @@
 # Pro/g/ramming Challenges
 /g/'s Programming Challenges v1.3 by !LiNuXCQGns
 
-- [ ] Name Generator
+- [X] Name Generator
 - [ ] Higher-Lower/Heads-Tails
 - [ ] Temperature Converter
 - [ ] Calculate Age in Seconds
