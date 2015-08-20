@@ -101,3 +101,7 @@
 - [ ] Little Man Computer Simulator
 - [ ] Basic Lisp Interpreter
 - [ ] Enigma Machine Simulator with settings.conf
+
+# Extended Projects
+
+The following projects are ideas that are extended from some of the examples found here. They have more features and are intended to be used instead of just as an exercise.
