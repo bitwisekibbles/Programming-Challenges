@@ -3,7 +3,7 @@
 
 - [X] Name Generator
 - [X] Higher-Lower/Heads-Tails
-- [ ] Temperature Converter
+- [X] Temperature Converter
 - [ ] Calculate Age in Seconds
 - [ ] Encrypt/Decrypt Algorithm
 - [ ] Fizzbuzz
