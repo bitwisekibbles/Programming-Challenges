@@ -2,7 +2,7 @@
 /g/'s Programming Challenges v1.3 by !LiNuXCQGns
 
 - [X] Name Generator
-- [ ] Higher-Lower/Heads-Tails
+- [X] Higher-Lower/Heads-Tails
 - [ ] Temperature Converter
 - [ ] Calculate Age in Seconds
 - [ ] Encrypt/Decrypt Algorithm
