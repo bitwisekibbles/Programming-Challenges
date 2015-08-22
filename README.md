@@ -6,7 +6,7 @@
 - [X] Temperature Converter
 - [ ] Calculate Age in Seconds
 - [ ] Encrypt/Decrypt Algorithm
-- [ ] Fizzbuzz
+- [X] Fizzbuzz
 - [ ] Rock-Paper-Scissors
 - [ ] Hangman
 - [ ] Love Calculator
